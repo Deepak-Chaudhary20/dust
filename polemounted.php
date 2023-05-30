@@ -1,6 +1,6 @@
 <?php include "includes/header.php"; ?>
 <?php include "includes/navigation.php"; ?>
-
+<?php include "includes/port.php"; ?>
 <section id="blog" class="blog">
       <div class="container mt-3" data-aos="fade-up">
         <h2>Pole Mounted Dustbin</h2>

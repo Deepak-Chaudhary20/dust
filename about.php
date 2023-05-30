@@ -9,9 +9,9 @@
             <p>Prisha Enterprises is a prominent manufacturer, exporter and supplier of Blow Mould Dustbin, Garbage Bins, Sintex Dustbin, Mild Steel Dustbin, Stainless Steel Dustbin, Plastic Dustbin, Water Tank, Electric Rickshaw Loader, Thermal Fogging Machine and Zyme Buckets. These products are reckoned for sturdiness, toughness, and high-end finishing. We use the finest quality raw materials and contemporary machines to design the best quality products at the reasonable prices. Our advanced infrastructural facility is divided into several operational units to attain predefined goals and targets of the company. The facility enables us to maximize the quality and quantity of the products. We update the production machines from time-to-time to develop new products with better and modern features.
             </p>
         </div>
-        <!-- <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center">
             <img src="https://th.bing.com/th/id/OIP.LnbaejXJS20fIPQkQHTLdQHaCj?pid=ImgDet&rs=1" alt="" height="350px" style="" width="80%">
-        </div> -->
+        </div>
 
     </div>
 </div>

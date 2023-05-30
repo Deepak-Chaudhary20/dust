@@ -10,7 +10,11 @@
   <div class="d-flex justify-content-center mt-1 p-2">
     <span style="color: orange; font-size: 2rem"><h1>Welcome To Prisha Enterprises</h1></span>
   </div>
-  <p class="d-flex justify-content-center mt-1 text-center p-2" style="font-size: 1.5rem">We have a wide range of dustbin and garbage products. Our company's dream is Green India - Clean India - Healthy India - Smart India </p>
+  <div class="justify-content-center d-flex">
+      <div class="col-lg-8 text-center p-4">
+        <p>We have a wide range of dustbin and garbage products. Our company's dream is Green India - Clean India - Healthy India - Smart India </p>
+      </div>
+  </div>
   <main id="main">
     <div class="d-flex justify-content-center">
     <div class="col-md-10">
@@ -65,7 +69,7 @@
   </div>
     <div class="container mt-5" data-aos="fade-up">
       <!-- <h2>Our Dustbins</h2> -->
-        <div class="row gy-4 posts-list">
+        <div class="row gy-4 posts-list mt-5">
 
           <div class="col-xl-3 col-md-4" style="height: 300px;">
           <h4>Household Dustbin</h4>

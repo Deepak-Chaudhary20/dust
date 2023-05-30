@@ -10,7 +10,7 @@
         <ul>
           <li><a href="index.php">Home</a></li>
           <li><a href="about.php">About</a></li>
-          <li><a href="index.php#gallery">Gallery</a></li>
+          <!-- <li><a href="index.php#gallery">Gallery</a></li> -->
 
           <li class="dropdown"><a href="#"><span>Product List</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>

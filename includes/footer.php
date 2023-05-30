@@ -1,8 +1,9 @@
 <footer id="footer" class="footer">
 
-    <div class="container">
-      <div class="row gy-4">
-        <div class="col-lg-5 col-md-12 footer-info">
+  
+<div class="container">
+      <div class="row gy-3">
+        <div class="col-lg-3 col-md-12 footer-info">
           <a href="index.html" class="logo d-flex align-items-center">
            <h2 class="text-white"> Presha Enterprises</h2>
           </a>
@@ -10,8 +11,17 @@
           Prisha Enterprises is a prominent manufacturer, <br> exporter and supplier of Blow Mould Dustbin, Garbage Bins, Sintex Dustbin, Mild Steel Dustbin,<br> Stainless Steel Dustbin, Plastic Dustbin, Water Tank, Electric Rickshaw Loader, Thermal Fogging Machine and Zyme Buckets.
           </p>
         </div>
-
-        <div class="col-lg-4 col-md-12">
+            <div class="col-lg-3 col-md-12 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About us</a></li>
+            <li><a href="#gallery">Products</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <!--<li><a href="#">Privacy policy</a></li>-->
+          </ul>
+        </div>
+        <div class="col-lg-3 col-md-12">
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27973.870099525953!2d77.05862!3d28.7872!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d077f1803a4cd%3A0x8565286c6f4a2ee!2sGanga%20Toli%20Mandir%20Bawana!5e0!3m2!1sen!2sin!4v1685370769467!5m2!1sen!2sin" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
